@@ -104,6 +104,6 @@ This project is open source and available under the MIT License.
 
 ## Contact
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: nakraniheet.work@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 - GitHub: [Your GitHub Profile]
