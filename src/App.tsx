@@ -242,7 +242,7 @@ export default function App() {
               <div className="relative">
                 <div className="w-74 h-74 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white dark:border-zinc-900 shadow-2xl relative z-10">
                   <img
-                    src={`${import.meta.env.BASE_URL}heetprofile2.png`}
+                   src={`${import.meta.env.BASE_URL}heetprofile2.png`}
                     alt="Heet Patel"
                     className="w-full h-full object-cover"
                     referrerPolicy="no-referrer"
