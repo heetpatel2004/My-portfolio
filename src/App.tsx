@@ -312,7 +312,7 @@ export default function App() {
               >
                 <div className="aspect-[4/5] bg-gray-200 dark:bg-zinc-800 rounded-2xl overflow-hidden relative group">
                   <img
-                    src="/heetprofile2.png"
+                    src={`${import.meta.env.BASE_URL}heetprofile2.png`}
                     alt="Heet Patel Professional"
                     className="w-full h-full object-cover filter grayscale hover:grayscale-0 transition-all duration-500"
                     referrerPolicy="no-referrer"
